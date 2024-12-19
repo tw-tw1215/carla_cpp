@@ -230,4 +230,3 @@ git rm -rf .
 [maokeyi](https://github.com/maokeyi)
 [qingchucheng](https://github.com/qingchucheng)
 [tw-tw1215](https://github.com/tw-tw1215)
-[zkrspec](https://github.com/zkrspec)
